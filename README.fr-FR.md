@@ -34,11 +34,11 @@ fonctions ou d'opérations pouvant être appliquées sur ces données.
 
 * `B` [Liste Chaînée](src/data-structures/linked-list)
 * `B` [Liste Doublement Chaînée](src/data-structures/doubly-linked-list)
-* `B` [Queue](src/data-structures/queue)
+* `B` [File](src/data-structures/queue)
 * `B` [Pile](src/data-structures/stack)
 * `B` [Table de Hachage](src/data-structures/hash-table)
 * `B` [Tas](src/data-structures/heap)
-* `B` [Queue de Priorité](src/data-structures/priority-queue)
+* `B` [File de priorité](src/data-structures/priority-queue)
 * `A` [Trie](src/data-structures/trie)
 * `A` [Arbre](src/data-structures/tree)
     * `A` [Arbre de recherche Binaire](src/data-structures/tree/binary-search-tree)
